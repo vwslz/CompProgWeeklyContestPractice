@@ -4,5 +4,5 @@
 
 ## Solution (Easy to Hard)
 
-Python: 
-[G](G.python) (brutal force), [F](F.python) (brutal force), [C](C.python) (O(n))
+Python:
+[G](G.py) (brutal force), [F](F.py) (brutal force), [C](C.py) (O(n))
