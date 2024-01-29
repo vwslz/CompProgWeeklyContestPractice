@@ -9,7 +9,7 @@ Free pizza&soda. All levels are welcome.
 
 ## SBU Competitive Programming Club
 Website: http://cs.stonybrook.edu/~compprog/
-Discord: https://discord.gg/UTrFwUHPyM
+Discord: https://discord.gg/v7u5PnGkkR
 
 ## Code Submission Guideline
 Format of solution file:
