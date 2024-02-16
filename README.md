@@ -29,3 +29,7 @@ Example: A_vwslz.py (user vwslz's solution for question A using python)
 20240124: [link](https://github.com/vwslz/CompProgWeeklyContestPractice/tree/main/2024/20240124)
 
 20240131: [link](https://github.com/vwslz/CompProgWeeklyContestPractice/tree/main/2024/20240131)
+
+20240207: [link](https://github.com/vwslz/CompProgWeeklyContestPractice/tree/main/2024/20240207)
+
+20240214: [link](https://github.com/vwslz/CompProgWeeklyContestPractice/tree/main/2024/20240214)
