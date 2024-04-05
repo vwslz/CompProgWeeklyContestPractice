@@ -33,3 +33,13 @@ Example: A_vwslz.py (user vwslz's solution for question A using python)
 20240207: [link](https://github.com/vwslz/CompProgWeeklyContestPractice/tree/main/2024/20240207)
 
 20240214: [link](https://github.com/vwslz/CompProgWeeklyContestPractice/tree/main/2024/20240214)
+
+20240221: [link](https://github.com/vwslz/CompProgWeeklyContestPractice/tree/main/2024/20240221)
+
+20240228: [link](https://github.com/vwslz/CompProgWeeklyContestPractice/tree/main/2024/20240228)
+
+20240306: [link](https://github.com/vwslz/CompProgWeeklyContestPractice/tree/main/2024/20240306)
+
+20240327: [link](https://github.com/vwslz/CompProgWeeklyContestPractice/tree/main/2024/20240327)
+
+20240403: [link](https://github.com/vwslz/CompProgWeeklyContestPractice/tree/main/2024/20240403)
