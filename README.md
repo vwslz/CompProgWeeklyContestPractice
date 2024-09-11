@@ -51,3 +51,5 @@ Example: A_vwslz.py (user vwslz's solution for question A using python)
 20240501: [link](https://github.com/vwslz/CompProgWeeklyContestPractice/tree/main/2024/20240501)
 
 20240903: [link](https://github.com/vwslz/CompProgWeeklyContestPractice/tree/main/2024/20240903)
+
+20240910: [link](https://github.com/vwslz/CompProgWeeklyContestPractice/tree/main/2024/20240910)
